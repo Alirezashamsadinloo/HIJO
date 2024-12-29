@@ -1,0 +1,3 @@
+tkinter
+pyarmor
+sentry-sdk
